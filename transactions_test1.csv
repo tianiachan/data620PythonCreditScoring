@@ -1,0 +1,32 @@
+﻿Transaction_ID,CustomerID,Type,Amount
+5000,100,Purchase,10
+5001,100,Refund,15
+5002,102,Inquiry,
+5003,100,Inquiry,
+5004,101,Purchase,100
+5005,104,Purchase,80
+5006,104,Inquiry,
+5007,103,Inquiry,
+5008,103,Purchase,50
+5009,103,Refund,80
+5010,103,Purchase,50
+5011,106,Purchase,100
+5012,106,Refund ,0
+5013,106,Inquiry,
+5014,110,Inquiry,
+5015,110,Purchase,10
+5016,110,Purchase,80
+5017,109,Purchase ,100
+5018,110,Purchase ,111
+5019,107,Inquiry,
+5020,107,Purchase,3000
+5021,102,Refund,1000
+5022,102,Purchase,100
+5023,102,Inquiry,
+5024,108,Purchase,60
+5025,108,Purchase,10
+5026,109,Inquiry,
+5027,106,Purchase ,0
+5028,103,Refund,100
+5029,104,Refund ,1
+5030,101,Purchase,2

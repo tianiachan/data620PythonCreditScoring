@@ -1,0 +1,12 @@
+﻿Transaction_ID,CustomerID,Type,Amount
+5000,100,Purchase,10
+5001,100,Refund,15
+5002,102,Inquiry,
+5003,100,Inquiry,
+5004,101,Purchase,100
+5005,104,Purchase,80
+5006,104,Inquiry,
+5007,103,Inquiry,
+5008,103,Purchase,50
+5009,103,Refund,80
+5010,103,Purchase,50
