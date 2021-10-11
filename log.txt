@@ -1,33 +1,32 @@
 Creating log file. 
-Anna Lee your account 105 had a previous balance of $465 and after your refund of $0 you now have a balance of $465.0
-Anna Lee your account 105 had a previous balance of $465.0 and after your successful purchase of $10 you have a balance of $475.0
-Frank Reynolds, your account 103 has a balance of $500.
-Anna Lee, your account 105 has a balance of $475.0.
-Dan Stan your account 108 had a previous balance of $200 and after your refund of $90 you now have a balance of $110.0
-Sid Sloth your account 109 had a previous balance of $450 and after your refund of $50 you now have a balance of $400.0
-Sid Sloth, your account 109 has a balance of $400.0.
-Lee Vo, your account 102 has a balance of $40.
-Lee Vo, your account 102 has a balance of $40.
-Susie Brown, your account 101 has a balance of $0.
-Matthew Rivera your account 104 had a previous balance of $390 and after your successful purchase of $3000 you have a balance of $3390.0
-Frank Reynolds your account 103 had a previous balance of $500 and after your successful purchase of $10 you have a balance of $510.0
-Loraine Regson your account 107 had a previous balance of $100 and after your successful purchase of $1 you have a balance of $101.0
-Loraine Regson your account 107 had a previous balance of $101.0 and after your successful purchase of $1000 you have a balance of $1101.0
-Loraine Regson your account 107 had a previous balance of $1101.0 and after your successful purchase of $800 you have a balance of $1901.0
-Bitter Melon, your account 106 has a balance of $809.
-Bitter Melon your account 106 had a previous balance of $809 and after your refund of $0 you now have a balance of $809.0
-Bitter Melon, your account 106 has a balance of $809.0.
-Matthew Rivera, your account 104 has a balance of $3390.0.
-Matthew Rivera, your account 104 has a balance of $3390.0.
-Matthew Rivera your account 104 had a previous balance of $3390.0 and after your refund of $0 you now have a balance of $3390.0
-Matthew Rivera your account 104 had a previous balance of $3390.0 and after your successful purchase of $0 you have a balance of $3390.0
-Matthew Rivera your account 104 had a previous balance of $3390.0 and after your successful purchase of $10 you have a balance of $3400.0
-John Smith, your account 100 has a balance of $90.
-Susie Brown, your account 101 has a balance of $0.
-John Smith your account 100 had a previous balance of $90 and after your successful purchase of $1 you have a balance of $91.0
-John Smith your account 100 had a previous balance of $91.0 and after your successful purchase of $1 you have a balance of $92.0
-John Smith your account 100 had a previous balance of $92.0 and after your successful purchase of $20 you have a balance of $112.0
-Fuschia Winters, your account 110 has a balance of $300.
-Fuschia Winters your account 110 had a previous balance of $300 and after your refund of $10 you now have a balance of $290.0
-Fuschia Winters your account 110 had a previous balance of $290.0 and after your refund of $100 you now have a balance of $190.0
-Your hash is 3682
+Anna Lee your account 105 had a previous balance of $500 a credit limit of $700 and your attempted purchase of $500 was declined. 
+Bitter Melon your account 106 had a previous balance of $560 and after your refund of $400 you now have a balance of $160.0
+John Smith, your account 100 has a balance of $70.
+John Smith your account 100 had a previous balance of $70 and after your successful purchase of $70 you have a balance of $140.0
+John Smith your account 100 had a previous balance of $140.0 and after your refund of $100 you now have a balance of $40.0
+Susie Brown, your account 101 has a balance of $900.
+Susie Brown, your account 101 has a balance of $900.
+Susie Brown, your account 101 has a balance of $900.
+Matthew Rivera, your account 104 has a balance of $60.
+Susie Brown your account 101 had a previous balance of $900 a credit limit of $900 and your attempted purchase of $10000 was declined. 
+Matthew Rivera your account 104 had a previous balance of $60 a credit limit of $900 and your attempted purchase of $100000 was declined. 
+Anna Lee your account 105 had a previous balance of $500 and after your refund of $80 you now have a balance of $420.0
+Frank Reynolds, your account 103 has a balance of $340.
+Matthew Rivera, your account 104 has a balance of $60.
+Dan Stan, your account 108 has a balance of $390.
+Frank Reynolds your account 103 had a previous balance of $340 and after your refund of $2000 you now have a balance of $-1660.0
+Matthew Rivera your account 104 had a previous balance of $60 and after your refund of $1 you now have a balance of $59.0
+Sid Sloth your account 109 had a previous balance of $10000 a credit limit of $10001 and your attempted purchase of $100 was declined. 
+Sid Sloth your account 109 had a previous balance of $10000 and after your refund of $102 you now have a balance of $9898.0
+Sid Sloth your account 109 had a previous balance of $9898.0 and after your successful purchase of $1 you have a balance of $9899.0
+Lee Vo, your account 102 has a balance of $150.
+Lee Vo, your account 102 has a balance of $150.
+Frank Reynolds your account 103 had a previous balance of $-1660.0 and after your refund of $12 you now have a balance of $-1672.0
+Loraine Regson your account 107 had a previous balance of $458 and after your refund of $1 you now have a balance of $457.0
+Loraine Regson your account 107 had a previous balance of $457.0 and after your refund of $2 you now have a balance of $455.0
+Loraine Regson your account 107 had a previous balance of $455.0 and after your refund of $3 you now have a balance of $452.0
+Frank Reynolds your account 103 had a previous balance of $-1672.0 and after your successful purchase of $90 you have a balance of $-1582.0
+Frank Reynolds your account 103 had a previous balance of $-1582.0 and after your successful purchase of $1 you have a balance of $-1581.0
+Bitter Melon your account 106 had a previous balance of $160.0 and after your refund of $0 you now have a balance of $160.0
+Sid Sloth, your account 109 has a balance of $9899.0.
+Your hash is 9597
