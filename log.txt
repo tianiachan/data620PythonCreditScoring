@@ -1,0 +1,28 @@
+Creating log file. 
+John Smith your account 100 had a previous balance of $100 and after your successful purchase of $10 you have a balance of $90.0
+John Smith your account 100 had a previous balance of $90.0 and after your refund of $15 you now have a balance of $75.0
+Lee Vo, your account 102 has a balance of $0.
+John Smith, your account 100 has a balance of $75.0.
+Susie Brown your account 101 had a previous balance of $150 and after your successful purchase of $100 you have a balance of $50.0
+Matthew Rivera your account 104 had a previous balance of $200 and after your successful purchase of $80 you have a balance of $120.0
+Matthew Rivera, your account 104 has a balance of $120.0.
+Frank Reynolds, your account 103 has a balance of $100.
+Frank Reynolds your account 103 had a previous balance of $100 and after your successful purchase of $50 you have a balance of $50.0
+Frank Reynolds your account 103 had a previous balance of $50.0 and after your refund of $80 you now have a balance of $-30.0
+Frank Reynolds your account 103 had a previous balance of $-30.0 and after your successful purchase of $50 you have a balance of $-80.0
+Bitter Melon your account 106 had a previous balance of $300 and after your successful purchase of $100 you have a balance of $200.0
+Bitter Melon, your account 106 has a balance of $200.0.
+Fuschia Winters, your account 110 has a balance of $790.
+Fuschia Winters your account 110 had a previous balance of $790 and after your successful purchase of $10 you have a balance of $780.0
+Fuschia Winters your account 110 had a previous balance of $780.0 and after your successful purchase of $80 you have a balance of $700.0
+Loraine Regson, your account 107 has a balance of $940.
+Loraine Regson your account 107 had a previous balance of $940 and after your successful purchase of $3000 you have a balance of $-2060.0
+Lee Vo your account 102 had a previous balance of $0 and after your refund of $1000 you now have a balance of $-1000.0
+Lee Vo your account 102 had a previous balance of $-1000.0 and after your successful purchase of $100 you have a balance of $-1100.0
+Lee Vo, your account 102 has a balance of $-1100.0.
+Dan Stan your account 108 had a previous balance of $40 and after your successful purchase of $60 you have a balance of $-20.0
+Dan Stan your account 108 had a previous balance of $-20.0 and after your successful purchase of $10 you have a balance of $-30.0
+Sid Sloth, your account 109 has a balance of $780.
+Frank Reynolds your account 103 had a previous balance of $-80.0 and after your refund of $100 you now have a balance of $-180.0
+Susie Brown your account 101 had a previous balance of $50.0 and after your successful purchase of $2 you have a balance of $48.0
+Your hash is 509
